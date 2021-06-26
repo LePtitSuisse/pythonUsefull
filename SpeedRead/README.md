@@ -23,7 +23,7 @@ git clone https://github.com/LePtitSuisse/pythonUsefull.git
 mkdir SpeedRead
 cp /pythonUsefull/SpeedRead/main.py /SpeedRead
 cd SpeedRead && touch text.txt
-
+```
 
 ## Usage
 
