@@ -21,7 +21,7 @@ Then, you have to download the main.py (you can clone the entire repository by t
 ```bash
 git clone https://github.com/LePtitSuisse/pythonUsefull.git
 mkdir SpeedRead
-cp /pythonUsefull/SpeedRead/main.py /SpeedRead
+cp pythonUsefull/SpeedRead/main.py SpeedRead/
 cd SpeedRead && touch text.txt
 ```
 
